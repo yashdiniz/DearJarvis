@@ -1,5 +1,7 @@
 # DearJarvis
 
+**This repository is now archived.**
+
 ##### Submission
 A link to our submission page is available [here](https://devfolio.co/submissions/DearJarvis).
 
